@@ -1,0 +1,12 @@
+#Task1
+integer_var = 18
+float_var = 19.7
+string_var = "sleep"
+list_va = ["1,2,3,4"]
+tuple_var = ("s,l,1,8")
+dict_var = { 1:"Mary", 2:"Merry"}
+set_var = {"Mely","Den","Kriss"}
+bool_var = True 
+print(integer_var)
+print(float_var)
+print(string_var)
