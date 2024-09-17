@@ -10,3 +10,18 @@ bool_var = True
 print(integer_var)
 print(float_var)
 print(string_var)
+#Task2
+name_1 = "Muslima"
+age = 17
+average_grade = 5.0
+favorite_movies = ['Astral','The NUN','The Run']
+personal_info = ("Suleimanova","1598","3.7")
+skills = {1:"dexterity", 2:"itality"}
+visited_countries = {'USA','Japan','China'}
+has_driver_license = False
+#Task3
+Processor = "12th Gen intel(R) Core(TM) i7-12700KF 3.61 GHz"
+V_memory = 32.0
+S_Internet = 100
+Data = ['12th Gen intel(R) Core(TM) i7-12700KF 3.61 GHz','32.0','100']
+print(Data)
