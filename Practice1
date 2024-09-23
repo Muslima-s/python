@@ -35,6 +35,21 @@ print(Path)
 print(Path*2)
 #TASK3
 num_1 = 7
+a = 5
+b = 10
+a = 10
+b = 5 
+b = 20 
+print(a,b)
+x = 7
+y = 3
+z = 0
+print(x+y)
+print(x-y)
+print(x*y)
+print(x%y)
+print(x/y)
+print(x**y)
 num_2 = 10
 num_3 = 4
 summ = (num_1+num_2+num_3)
